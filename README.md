@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pPaulo
+- 👋 Hi, I’m @Pau
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me : facebook](https://www.facebook.com/profile.php?id=61563194736274
+- 📫 How to reach me : https://www.facebook.com/profile.php?id=61563194736274
 - ⚡ Fun fact: I'm lazy 24/7/12/365
 
 <!---
